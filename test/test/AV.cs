@@ -15,5 +15,7 @@ namespace test
         public string Artist { get; set; }
 
         public DateTime Releasedate { get; set; }
+
+        public bool Uncensored { get; set; }
     }
 }
