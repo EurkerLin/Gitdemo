@@ -4,3 +4,4 @@ I:\VSGIT\SQLdemo\SQLdemo\bin\Debug\SQLdemo.pdb
 I:\VSGIT\SQLdemo\SQLdemo\obj\Debug\SQLdemo.csprojAssemblyReference.cache
 I:\VSGIT\SQLdemo\SQLdemo\obj\Debug\SQLdemo.exe
 I:\VSGIT\SQLdemo\SQLdemo\obj\Debug\SQLdemo.pdb
+I:\VSGIT\SQLdemo\SQLdemo\obj\Debug\SQLdemo.csproj.CoreCompileInputs.cache
