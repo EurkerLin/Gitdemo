@@ -21,7 +21,7 @@ namespace test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            textBox1.Text += Getstringadddot("Eurker") + "\r\n";
         }
 
         private async void button1_ClickAsync(object sender, EventArgs e)
@@ -43,6 +43,18 @@ namespace test
         {
             string title = str.Substring(str.IndexOf("<title>")+7, str.IndexOf("</title>") - str.IndexOf("<title>")-7- " - JavBus".Length);
             return title;
+        }
+
+        public string Getstringadddot(string str)
+        {
+            string stradddot = "";
+            char[] strbyte = str.ToCharArray();
+            for(int i=0;i<strbyte.Length-1;i++)
+            {
+                stradddot += strbyte[i] + ",";
+            }
+            stradddot += strbyte[strbyte.Length - 1];
+            return stradddot;
         }
 
  

@@ -7,3 +7,13 @@ C:\Users\palad\source\repos\test\test\obj\Debug\test.Properties.Resources.resour
 C:\Users\palad\source\repos\test\test\obj\Debug\test.csproj.GenerateResource.cache
 C:\Users\palad\source\repos\test\test\obj\Debug\test.exe
 C:\Users\palad\source\repos\test\test\obj\Debug\test.pdb
+I:\VSGIT\test\test\bin\Debug\test.exe.config
+I:\VSGIT\test\test\bin\Debug\test.exe
+I:\VSGIT\test\test\bin\Debug\test.pdb
+I:\VSGIT\test\test\obj\Debug\test.csprojAssemblyReference.cache
+I:\VSGIT\test\test\obj\Debug\test.Form1.resources
+I:\VSGIT\test\test\obj\Debug\test.Properties.Resources.resources
+I:\VSGIT\test\test\obj\Debug\test.csproj.GenerateResource.cache
+I:\VSGIT\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+I:\VSGIT\test\test\obj\Debug\test.exe
+I:\VSGIT\test\test\obj\Debug\test.pdb
